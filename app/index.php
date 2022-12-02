@@ -23,6 +23,9 @@
                 <option value="times">Times</option>
                 <option value="divided by">Divided by</option>
             </select>
+
+            <input name="number2" type="text" class="form-control inputField" />
+            <input name="submit" type="submit" value="Calculate" class=btn btn-primary />
         </form>
 
 
