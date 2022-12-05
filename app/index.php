@@ -25,7 +25,7 @@
             </select>
 
             <input name="number2" type="text" class="form-control inputField" />
-            <input name="submit" type="submit" value="Calculate" class=btn btn-primary />
+            <input name="submit" type="submit" value="Calculate" class="btn btn-primary" />
         </form>
 
 
