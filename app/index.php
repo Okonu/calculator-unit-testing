@@ -13,6 +13,7 @@
 <body>
     <div class="container" style="margin-top: 50px">
 
+        <?php require_once ".calculatorController.php"; ?>
         <!---calculator form -->
 
         <form method="post">
